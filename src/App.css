@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.bd-navbar {
+  color: rgb(238, 213, 213);
+  min-height: 4rem;
+  background-color: #563d7c;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 5%), inset 0 -1px 0 rgb(0 0 0 / 10%);
+}
+
+th{
+  background-color: rgb(153, 185, 65);
+
+}
+a{
+  color: #fff;
+  
+ }
+
+ a:hover {
+  color: rgb(160, 228, 82) !important;
+}
